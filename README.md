@@ -82,13 +82,6 @@ Estou construindo uma sequência de projetos de engenharia de dados, do básico 
 | Fundamentos de Engenharia de Dados | Data Science Academy |
 | Power BI | Data Science Academy |
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KBerliet&show_icons=true&hide_border=true&theme=default">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBerliet&layout=compact&hide_border=true">
-</p>
-
 ---
 
 <p align="center">
