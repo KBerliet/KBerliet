@@ -1,40 +1,96 @@
-# Olá, eu sou o Kevinn 👋
+<h1 align="center">Kevinn · Engenharia de Dados</h1>
 
-Estudante de **Sistemas de Informação** (UNIFACISA, formatura prevista para dez/2027) e futuro **Engenheiro de Dados**. Gosto de transformar dados brutos em dados confiáveis, organizados e prontos para uso.
+<p align="center">
+  Transformo dados brutos em dados confiáveis, organizados e prontos para análise.<br>
+  Estudante de Sistemas de Informação · Paraíba, Brasil 🇧🇷
+</p>
 
-Atualmente estagio com **homologação e validação de dados e bancos de dados**, e venho construindo meu portfólio com pipelines de ponta a ponta.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinn-berliet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kevinnberliet17@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## 🔭 No que estou focado
+---
 
-- Construindo projetos de engenharia de dados em sequência: Data Lake, Lakehouse, ELT, streaming e orquestração
-- Aprofundando em **Airflow, dbt, Spark/PySpark e Databricks**
-- Estudando **AWS** (Cloud Practitioner) e arquitetura medalhão
+## 👨‍💻 Sobre mim
 
-## 🛠️ Tecnologias
+- 🎓 Cursando **Sistemas de Informação** na UNIFACISA (formatura prevista para dez/2027)
+- 💼 Estagiário em **homologação e validação de dados**, garantindo a qualidade de bases e bancos de dados
+- 🧾 Antes disso, atuei com **conciliação de dados financeiros e automação em Excel**, onde aprendi o valor de um dado correto
+- 🌱 Vim do desenvolvimento **web e mobile** e hoje foco em **Engenharia de Dados**
+- 🎯 Objetivo: atuar como Engenheiro de Dados, construindo pipelines robustos e bem documentados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+## 🛠️ Stack
+
+**Linguagens e bancos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Pipelines e orquestração**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Big Data e nuvem (em evolução)**
+
+![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Visualização**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ## 📌 Projetos em destaque
 
-**[Brasileirão Data Pipeline](https://github.com/KBerliet/brasileirao-data-pipeline)**
-Pipeline ETL com Python, Pandas e SQL Server, seguindo a arquitetura medalhão. Trata problemas reais de qualidade de dados, como valores nulos, conversão de tipos, datas em português e delimitadores de CSV.
+### 🏆 [Brasileirão Data Pipeline](https://github.com/KBerliet/brasileirao-data-pipeline)
+Pipeline ETL completo com **arquitetura medalhão** (bronze, silver, gold).
+- **Stack:** Python, Pandas, pyodbc, SQL Server
+- **Desafios resolvidos:** tratamento de nulos, conversão de tipos NumPy, datas em português e delimitadores de CSV
+- **Evolução planejada:** migração para Databricks/PySpark
 
+### 💱 PTAX Exchange Rate Pipeline
+Ingestão automatizada de cotações a partir da **API do Banco Central do Brasil**.
+- **Stack:** Python, Docker
+- **Arquitetura:** camadas bronze, silver e gold
 
-## 📚 Formação e certificações
+## 🔭 Em andamento
 
-- AWS Cloud Quest: Cloud Practitioner
-- Imersão Engenharia de Dados com IA (Alura)
-- Data Lake do Zero (Udemy)
-- Engenharia de Dados com Python (Udemy)
-- Fundamentos de Engenharia de Dados (Data Science Academy)
-- Power BI (Data Science Academy)
+Estou construindo uma sequência de projetos de engenharia de dados, do básico ao avançado:
 
-## 📫 Contato
+- [ ] Data Lake (S3 + Glue + Athena)
+- [ ] Lakehouse com Databricks
+- [ ] ELT com Airbyte, Snowflake e dbt
+- [ ] Orquestração com Airflow + dbt
+- [ ] Streaming com Kafka + Spark
+- [ ] Qualidade e observabilidade de dados
 
-[LinkedIn](https://www.linkedin.com/in/kevinn-berliet) · [E-mail](mailto:kevinnberliet17@gmail.com)
+## 📜 Certificações e cursos
+
+| Curso | Instituição |
+|---|---|
+| AWS Cloud Quest: Cloud Practitioner | AWS |
+| Imersão Engenharia de Dados com IA | Alura |
+| Data Lake do Zero | Udemy |
+| Engenharia de Dados com Python | Udemy |
+| Administrando Banco de Dados | Fundação Bradesco |
+| Fundamentos de Engenharia de Dados | Data Science Academy |
+| Power BI | Data Science Academy |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KBerliet&show_icons=true&hide_border=true&theme=default">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBerliet&layout=compact&hide_border=true">
+</p>
+
+---
+
+<p align="center">
+  💬 Aberto a conversas sobre dados, estágio e oportunidades na área.
+</p>
